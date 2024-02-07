@@ -1,0 +1,21 @@
+body {
+    background-color: lightgray;
+}
+
+body li{
+    color: red;
+    font-size: 20px;
+}
+
+body p{
+    text-align: justify;
+    font-size: 17px;
+}
+
+section p{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+
+
